@@ -1,0 +1,27 @@
+{
+  "name": "beryl-time-hacker",
+  "version": "1.0.0",
+  "description": "Provides a platform for political analysis and campaigning, enhancing strategy and engagement in political processes.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/beryl-time-hacker"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "malachite-beast-tamer": "1.0.0",
+    "spinel-dimension-crafter": "1.0.0",
+    "ejs": "1.0.0",
+    "react-redux": "1.0.0",
+    "underscore": "1.0.0",
+    "mongoose": "1.0.0",
+    "dotenv": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
